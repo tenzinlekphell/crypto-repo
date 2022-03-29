@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-repo/static/css/main.da8d7c2d.css",
+    "main.js": "/crypto-repo/static/js/main.c1221d09.js",
+    "static/media/hello.svg": "/crypto-repo/static/media/hello.8f91604958fca806fe84eb61f22f2fb9.svg",
+    "static/media/books.svg": "/crypto-repo/static/media/books.c6fbea7b89b370eecec93a2d21bc4c75.svg",
+    "index.html": "/crypto-repo/index.html",
+    "main.da8d7c2d.css.map": "/crypto-repo/static/css/main.da8d7c2d.css.map",
+    "main.c1221d09.js.map": "/crypto-repo/static/js/main.c1221d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8d7c2d.css",
+    "static/js/main.c1221d09.js"
+  ]
+}
